@@ -1,2 +1,2 @@
-# Ignore exe
-/*.exe
+# Ignore Built application files
+*.exe
